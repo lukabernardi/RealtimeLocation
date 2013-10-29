@@ -1,0 +1,17 @@
+{
+  "name": "RealtimeLocation",
+  "version": "1.0.0-3",
+  "description": "",
+  "dependencies": {
+    "debug": "*",
+    "socket.io": "*",
+    "node-inspector": "*"
+  },
+  "subdomain": "RealtimeLocation",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
